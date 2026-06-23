@@ -11,7 +11,9 @@ Programación 2026
 
 ## Programa Utilizado
 Pseint y Python
-
+ns,NV,m-nSDVnkjfajknv
+vcbxvbfadbzfzfnvfxn
+xgnxfhjfcmc
 ## Descripción
 Este Trabajo Integrador Final consiste en una serie de algoritmos prácticos enfocados en la resolución de problemas lógicos, estructuras de datos bidimensionales y simulación de redes. 
 
